@@ -21,7 +21,7 @@ def main():
             Adversario().cadastraAdversarios(jogo)
             jogo.toMongo()
         else:
-            print str(jogo.ident) + " Old Game"
+            print str(jogo.ident) + " Old Game - Not inserted"
 
     Relatorio().criaRelatorioMaisJogos()
     Relatorio().criaRelatorioMaisGols()
