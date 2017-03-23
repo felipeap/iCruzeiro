@@ -1,0 +1,69 @@
+ATLETICO MG               - 13 Jogos    5 V    5 E    3 D    18 Gols Feitos   14 Gols Sofridos   
+GREMIO                    -  9 Jogos    5 V    1 E    3 D    11 Gols Feitos    8 Gols Sofridos   
+AMERICA MG                -  8 Jogos    5 V    2 E    1 D    14 Gols Feitos    5 Gols Sofridos   
+SAO PAULO                 -  7 Jogos    3 V    0 E    4 D     7 Gols Feitos   10 Gols Sofridos   
+BOTAFOGO                  -  6 Jogos    4 V    0 E    2 D     8 Gols Feitos    6 Gols Sofridos   
+FLUMINENSE                -  6 Jogos    3 V    1 E    2 D    14 Gols Feitos   11 Gols Sofridos   
+SANTOS                    -  6 Jogos    2 V    2 E    2 D     6 Gols Feitos    7 Gols Sofridos   
+FIGUEIRENSE               -  5 Jogos    3 V    1 E    1 D    14 Gols Feitos    5 Gols Sofridos   
+CORITIBA                  -  5 Jogos    4 V    1 E    0 D    10 Gols Feitos    5 Gols Sofridos   
+TUPI                      -  4 Jogos    3 V    1 E    0 D     4 Gols Feitos    1 Gols Sofridos   
+VILLA NOVA                -  4 Jogos    4 V    0 E    0 D     9 Gols Feitos    4 Gols Sofridos   
+VITORIA                   -  4 Jogos    3 V    1 E    0 D    12 Gols Feitos    5 Gols Sofridos   
+ATLETICO PR               -  4 Jogos    3 V    0 E    1 D     5 Gols Feitos    3 Gols Sofridos   
+CHAPECOENSE               -  4 Jogos    2 V    1 E    1 D     6 Gols Feitos    3 Gols Sofridos   
+VASCO                     -  3 Jogos    2 V    1 E    0 D    10 Gols Feitos    6 Gols Sofridos   
+PONTE PRETA               -  3 Jogos    1 V    1 E    1 D     4 Gols Feitos    3 Gols Sofridos   
+TOMBENSE                  -  3 Jogos    1 V    1 E    1 D     5 Gols Feitos    4 Gols Sofridos   
+CALDENSE                  -  3 Jogos    2 V    1 E    0 D     5 Gols Feitos    3 Gols Sofridos   
+GOIAS                     -  3 Jogos    3 V    0 E    0 D     8 Gols Feitos    1 Gols Sofridos   
+FLAMENGO                  -  3 Jogos    2 V    0 E    1 D     3 Gols Feitos    2 Gols Sofridos   
+SPORT                     -  3 Jogos    2 V    0 E    1 D     6 Gols Feitos    2 Gols Sofridos   
+INTERNACIONAL             -  3 Jogos    2 V    1 E    0 D     6 Gols Feitos    3 Gols Sofridos   
+CORINTHIANS               -  3 Jogos    2 V    0 E    1 D     7 Gols Feitos    5 Gols Sofridos   
+SANTA CRUZ                -  2 Jogos    2 V    0 E    0 D     6 Gols Feitos    1 Gols Sofridos   
+SAO CAETANO               -  2 Jogos    1 V    1 E    0 D     5 Gols Feitos    2 Gols Sofridos   
+CERRO PORTENO             -  2 Jogos    1 V    1 E    0 D     4 Gols Feitos    2 Gols Sofridos   
+ITUIUTABA                 -  2 Jogos    1 V    1 E    0 D     8 Gols Feitos    5 Gols Sofridos   
+NAUTICO                   -  2 Jogos    2 V    0 E    0 D     6 Gols Feitos    0 Gols Sofridos   
+BAHIA                     -  2 Jogos    1 V    0 E    1 D     4 Gols Feitos    3 Gols Sofridos   
+CRICIUMA                  -  2 Jogos    2 V    0 E    0 D     8 Gols Feitos    4 Gols Sofridos   
+URT                       -  2 Jogos    1 V    1 E    0 D     1 Gols Feitos    0 Gols Sofridos   
+BOA ESPORTE               -  2 Jogos    2 V    0 E    0 D     5 Gols Feitos    1 Gols Sofridos   
+PALMEIRAS                 -  2 Jogos    1 V    1 E    0 D     3 Gols Feitos    2 Gols Sofridos   
+JUVENTUDE                 -  1 Jogos    1 V    0 E    0 D     2 Gols Feitos    1 Gols Sofridos   
+PARANA                    -  1 Jogos    0 V    1 E    0 D     2 Gols Feitos    2 Gols Sofridos   
+BOCA JUNIORS              -  1 Jogos    0 V    0 E    1 D     1 Gols Feitos    2 Gols Sofridos   
+ESTUDIANTES               -  1 Jogos    1 V    0 E    0 D     3 Gols Feitos    0 Gols Sofridos   
+REAL POTOSI               -  1 Jogos    1 V    0 E    0 D     7 Gols Feitos    0 Gols Sofridos   
+COLO COLO                 -  1 Jogos    1 V    0 E    0 D     4 Gols Feitos    1 Gols Sofridos   
+VELEZ                     -  1 Jogos    1 V    0 E    0 D     3 Gols Feitos    0 Gols Sofridos   
+NACIONAL URU              -  1 Jogos    1 V    0 E    0 D     3 Gols Feitos    1 Gols Sofridos   
+AMERICA TO                -  1 Jogos    1 V    0 E    0 D     2 Gols Feitos    0 Gols Sofridos   
+NACIONAL MG               -  1 Jogos    1 V    0 E    0 D     5 Gols Feitos    0 Gols Sofridos   
+RESENDE RJ                -  1 Jogos    1 V    0 E    0 D     4 Gols Feitos    0 Gols Sofridos   
+ATLETICO GO               -  1 Jogos    1 V    0 E    0 D     5 Gols Feitos    0 Gols Sofridos   
+PORTUGUESA                -  1 Jogos    1 V    0 E    0 D     4 Gols Feitos    0 Gols Sofridos   
+GUARANI                   -  1 Jogos    1 V    0 E    0 D     2 Gols Feitos    0 Gols Sofridos   
+UNIVERSIDAD DE CHILE      -  1 Jogos    1 V    0 E    0 D     5 Gols Feitos    1 Gols Sofridos   
+MINAS BOCA                -  1 Jogos    1 V    0 E    0 D     4 Gols Feitos    0 Gols Sofridos   
+DEFENSOR URU              -  1 Jogos    0 V    1 E    0 D     2 Gols Feitos    2 Gols Sofridos   
+REAL GARCILASO            -  1 Jogos    1 V    0 E    0 D     3 Gols Feitos    0 Gols Sofridos   
+SAN LORENZO               -  1 Jogos    0 V    1 E    0 D     1 Gols Feitos    1 Gols Sofridos   
+SANTA RITA                -  1 Jogos    1 V    0 E    0 D     5 Gols Feitos    0 Gols Sofridos   
+ABC RN                    -  1 Jogos    1 V    0 E    0 D     1 Gols Feitos    0 Gols Sofridos   
+HURACAN                   -  1 Jogos    0 V    1 E    0 D     0 Gols Feitos    0 Gols Sofridos   
+MAMORE                    -  1 Jogos    0 V    1 E    0 D     1 Gols Feitos    1 Gols Sofridos   
+MINEROS VEN               -  1 Jogos    1 V    0 E    0 D     3 Gols Feitos    0 Gols Sofridos   
+UNIVERSITARIO SUCRE BOL   -  1 Jogos    1 V    0 E    0 D     2 Gols Feitos    0 Gols Sofridos   
+RIVER PLATE               -  1 Jogos    0 V    0 E    1 D     0 Gols Feitos    3 Gols Sofridos   
+AVAI                      -  1 Jogos    0 V    1 E    0 D     1 Gols Feitos    1 Gols Sofridos   
+JOINVILLE                 -  1 Jogos    1 V    0 E    0 D     3 Gols Feitos    0 Gols Sofridos   
+UBERLANDIA                -  1 Jogos    1 V    0 E    0 D     3 Gols Feitos    0 Gols Sofridos   
+GUARANI MG                -  1 Jogos    1 V    0 E    0 D     2 Gols Feitos    0 Gols Sofridos   
+CAMPINENSE                -  1 Jogos    1 V    0 E    0 D     3 Gols Feitos    2 Gols Sofridos   
+TRICORDIANO               -  1 Jogos    1 V    0 E    0 D     2 Gols Feitos    1 Gols Sofridos   
+SAO FRANCISCO/PA          -  1 Jogos    1 V    0 E    0 D     6 Gols Feitos    0 Gols Sofridos   
+MURICI AL                 -  1 Jogos    1 V    0 E    0 D     3 Gols Feitos    0 Gols Sofridos   
+
+TOTAL DE GOLS: 339

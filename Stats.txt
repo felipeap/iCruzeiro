@@ -1,0 +1,51 @@
+GERAL:
+    166 jogos 
+    106 vitorias 
+     32 empates 
+     28 derrotas 
+  70.3% aproveitamento 
+    339 gols feitos 
+    155 gols sofridos 
+  22734 pagantes 
+
+
+Mineirao:
+    147 jogos 
+     95 vitorias 
+     29 empates 
+     23 derrotas 
+  71.2% aproveitamento 
+    302 gols feitos 
+    131 gols sofridos 
+  24570 pagantes 
+
+
+Independencia:
+     19 jogos 
+     11 vitorias 
+      3 empates 
+      5 derrotas 
+  63.2% aproveitamento 
+     37 gols feitos 
+     24 gols sofridos 
+   8530 pagantes 
+
+
+Estatisticas Por Ano:
+1995:    1j   0v   1e   0d     33.3% aprov.     0 gols feitos     0 gols sofridos        0 pagantes 
+1996:    1j   1v   0e   0d    100.0% aprov.     2 gols feitos     1 gols sofridos    10331 pagantes 
+1998:    1j   0v   0e   1d      0.0% aprov.     0 gols feitos     2 gols sofridos    24791 pagantes 
+2000:    1j   0v   0e   1d      0.0% aprov.     1 gols feitos     2 gols sofridos    23608 pagantes 
+2001:    1j   1v   0e   0d    100.0% aprov.     4 gols feitos     1 gols sofridos    10475 pagantes 
+2003:    1j   0v   1e   0d     33.3% aprov.     2 gols feitos     2 gols sofridos    10705 pagantes 
+2006:    2j   1v   1e   0d     66.7% aprov.     5 gols feitos     2 gols sofridos    15246 pagantes 
+2007:    3j   2v   0e   1d     66.7% aprov.     6 gols feitos     3 gols sofridos    36455 pagantes 
+2008:    3j   1v   1e   1d     44.4% aprov.     8 gols feitos     7 gols sofridos    39381 pagantes 
+2009:    7j   6v   0e   1d     85.7% aprov.    16 gols feitos     6 gols sofridos    33910 pagantes 
+2010:    5j   4v   0e   1d     80.0% aprov.    17 gols feitos     4 gols sofridos    38746 pagantes 
+2012:   11j   4v   2e   5d     42.4% aprov.    17 gols feitos    20 gols sofridos     7682 pagantes 
+2013:   26j  23v   1e   2d     89.7% aprov.    73 gols feitos    18 gols sofridos    28315 pagantes 
+2014:   33j  25v   5e   3d     80.8% aprov.    72 gols feitos    24 gols sofridos    24192 pagantes 
+2015:   28j  13v  10e   5d     58.3% aprov.    41 gols feitos    19 gols sofridos    23597 pagantes 
+2016:   33j  17v   9e   7d     60.6% aprov.    55 gols feitos    40 gols sofridos    18703 pagantes 
+2017:    9j   8v   1e   0d     92.6% aprov.    20 gols feitos     4 gols sofridos    11984 pagantes 
