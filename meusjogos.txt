@@ -105,7 +105,7 @@
 105,Mineirao,19/04/2015,40364,1840130,Mineiro,1,2,Atletico MG-Fabio,Fabiano,Leo,Paulo Andre,Fabricio,Willians,Henrique,Arrascaeta,Alisson,Willian Bigode,Leandro Damiao-Mayke,Marquinhos,Mena-Marcelo Oliveira-Arrascaeta
 106,Mineirao,21/04/2015,24288,874080,Libertadores,2,0,Universitario Sucre BOL-Fabio,Mayke,Leo,Manoel,Mena,Henrique,Willians,Arrascaeta,Marquinhos,Willian Bigode,Henrique Dourado-Eurico,Gabriel Xavier,Joel-Marcelo Oliveira-Willian Bigode,Leo
 107,Mineirao,13/05/2015,37719,2044295,Libertadores,1,0,Sao Paulo-Fabio,Mayke,Bruno Rodrigo,Manoel,Mena,Willians,Henrique,Marquinhos,Arrascaeta,Willian Bigode,Leandro Damiao-Willian Farias,Gabriel Xavier-Marcelo Oliveira-Leandro Damiao
-108,Mineirao,24/05/2015,9639,290912,Brasileiro,1,1,Ponte PReta-Rafael,Ceara,Leo,Paulo Andre,Fabricio,Eurico,Bruno Ramires,Charles,Gabriel Xavier,Joel,Henrique Dourado-Neilton,Alisson,Riascos-Marcelo Oliveira-Charles
+108,Mineirao,24/05/2015,9639,290912,Brasileiro,1,1,Ponte Preta-Rafael,Ceara,Leo,Paulo Andre,Fabricio,Eurico,Bruno Ramires,Charles,Gabriel Xavier,Joel,Henrique Dourado-Neilton,Alisson,Riascos-Marcelo Oliveira-Charles
 109,Mineirao,27/05/2015,54898,3646216,Libertadores,0,3,River Plate-Fabio,Mayke,Manoel,Bruno Rodrigo,Mena,Willians,Henrique,Marquinhos,Arrascaeta,Willian Bigode,Leandro Damiao-Joel,Gabriel Xavier,Alisson-Marcelo Oliveira-
 110,Mineirao,21/06/2015,33643,1743926,Brasileiro,0,1,Chapecoense-Fabio,Mayke,Manoel,Bruno Rodrigo,Para,Charles,Henrique,Marquinhos,Allano,Willian Bigode,Leandro Damiao-Fabiano,Joel,Bruno Ramires-Luxemburgo-
 111,Mineirao,04/07/2015,7427,232378,Brasileiro,2,0,Atletico PR-Fabio,Mayke,Manoel,Bruno Rodrigo,Fabricio,Willians,Henrique,Arrascaeta,Marcos Vinicius,Marquinhos,Joel-Paulo Andre,Charles,Marinho-Luxemburgo-Arrascaeta,Marinho
@@ -164,3 +164,24 @@
 164,Independencia,12/03/2017,13834,167774,Mineiro,1,0,America MG-Rafael,Ezequiel,Leo,Manoel,Diogo Barbosa,Henrique,Cabral,Thiago Neves,Robinho,Arrascaeta,Sobis-Alisson,Rafinha,Abila-Mano-Sobis
 165,Mineirao,15/03/2017,6963,106677,Copa do Brasil,3,0,Murici AL-Rafael,Ezequiel,Leo,Caicedo,Diogo Barbosa,Hudson,Cabral,Thiago Neves,Robinho,Alisson,Sobis-Abila,Elber,Lucas Silva-Mano-Sobis,Contra,Contra
 166,Mineirao,19/03/2017,8161,143806,Mineiro,1,1,Tombense-Rafael,Ezequiel,Leo,Manoel,Diogo Barbosa,Henrique,Cabral,Robinho,Arrascaeta,Alisson,Sobis-Abila,Elber,Rafinha-Mano-Arrascaeta
+167,Mineirao,01/04/2017,35459,1000426,Mineiro,2,1,Atletico MG-Rafael,Ezequiel,Leo,Manoel,Diogo Barbosa,Hudson,Cabral,Thiago Neves,Rafinha,Arrascaeta,Sobis-Abila,Lucas Silva,Fabricio-Mano-Arrascaeta,Thiago Neves
+168,Mineirao,04/04/2017,13747,247108,Sulamericana,2,1,Nacional PAR-Rafael,Mayke,Leo,Manoel,Diogo Barbosa,Hudson,Cabral,Thiago Neves,Rafinha,Arrascaeta,Sobis-Abila,Elber-Mano-Thiago Neves,Abila
+169,Mineirao,09/04/2017,13542,289876,Mineiro,2,0,Democrata GV-Fabio,Mayke,Dede,Caicedo,Bryan,Lucas Silva,Romero,Fabricio,Marcos Vinicius,Elber,Abila-Raniel,Nonoca,Rafinha-Mano-Dede,Abila
+170,Independencia,16/04/2017,4429,76955,Mineiro,1,1,America MG-Rafael,Mayke,Leo,Manoel,Diogo Barbosa,Hudson,Cabral,Thiago Neves,Rafinha,Arrascaeta,Sobis-Abila,Alisson,Henrique-Mano-Thiago Neves
+171,Mineirao,19/04/2017,32353,1105337,Copa do Brasil,1,2,Sao Paulo-Rafael,Mayke,Leo,Manoel,Diogo Barbosa,Hudson,Cabral,Thiago Neves,Rafinha,Arrascaeta,Sobis-Alisson,Henrique,Caicedo-Mano-Thiago Neves
+172,Mineirao,23/04/2017,18067,369218,Mineiro,2,0,America MG-Rafael,Mayke,Leo,Caicedo,Diogo Barbosa,Henrique,Hudson,Rafinha,Thiago Neves,Arrascaeta,Sobis-Alisson,Abila,Lucas Silva-Mano-Arrascaeta,Arrascaeta
+173,Mineirao,30/04/2017,38978,1620951,Mineiro,0,0,Atletico MG-Rafael,Mayke,Leo,Caicedo,Diogo Barbosa,Henrique,Hudson,Rafinha,Thiago Neves,Arrascaeta,Sobis-Alisson,Abila,Elber-Mano-
+174,Mineirao,03/05/2017,8516,203069,Copa do Brasil,1,0,Chapecoense-Rafael,John Lennon,Dede,Caicedo,Diogo Barbosa,Henrique,Lucas Silva,Alisson,Thiago Neves,Arrascaeta,Raniel-Rafinha,Sobis,Hudson-Mano-Raniel
+175,Mineirao,14/05/2017,6528,125549,Brasileiro,1,0,Sao Paulo-Fabio,Romero,Dede,Leo,Diogo Barbosa,Henrique,Hudson,Rafinha,Alisson,Arrascaeta,Abila-Lucas Silva,Raniel,John Lennon-Mano-Abila
+176,Mineirao,04/06/2017,13371,249694,Brasileiro,0,2,Chapecoense-Fabio,Hudson,Leo,Caicedo,Diogo Barbosa,Cabral,Henrique,Rafinha,Thiago Neves,Alisson,Rafael Marques-Abila,John Lennon,Robinho-Mano-
+177,Mineirao,11/06/2017,7263,101000,Brasileiro,2,0,Atletico GO-Fabio,Ezequiel,Leo,Murilo,Diogo Barbosa,Romero,Cabral,Robinho,Thiago Neves,Rafael Marques,Abila-Alisson,Hudson,Rafinha-Mano-Abila,Abila
+178,Mineirao,19/06/2017,17327,375211,Brasileiro,3,3,Gremio-Fabio,Ezequiel,Leo,Caicedo,Diogo Barbosa,Cabral,Romero,Robinho,Thiago Neves,Alisson,Sobis-Abila,Elber,Lucas Silva-Mano-Sobis,Thiago Neves,Robinho
+179,Mineirao,25/06/2017,11770,213928,Brasileiro,2,0,Coritiba-Fabio,Ezequiel,Leo,Caicedo,Diogo Barbosa,Romero,Cabral,Robinho,Alisson,Thiago Neves,Sobis-Sassa,Rafael Marques,Hudson-Mano-Thiago Neves,Sobis
+180,Mineirao,09/07/2017,15129,387378,Brasileiro,3,1,Palmeiras-Fabio,Romero,Leo,Murilo,Diogo Barbosa,Henrique,Cabral,Hudson,Alisson,Thiago Neves,Sobis-Sassa,Elber,Lucas Silva-Mano-Thiago Neves,Elber,Hudson
+181,Mineirao,16/07/2017,39976,1349516,Brasileiro,1,1,Flamengo-Fabio,Romero,Leo,Murilo,Diogo Barbosa,Lucas Silva,Cabral,Elber,Alisson,Thiago Neves,Sobis-Sassa,Nonoca,Rafael Marques-Mano-Sassa
+182,Mineirao,26/07/2017,41660,1277729,Copa do Brasil,1,1,Palmeiras-Fabio,Romero,Leo,Murilo,Diogo Barbosa,Henrique,Cabral,Elber,Alisson,Thiago Neves,Sobis-Arrascaeta,Lucas Silva,Raniel-Mano-Diogo Barbosa
+183,Mineirao,06/08/2017,18780,457410,Brasileiro,0,0,Botafogo-Fabio,Romero,Leo,Murilo,Diogo Barbosa,Nonoca,Lucas Silva,Rafinha,Alisson,Thiago Neves,Sassa-Robinho,Sobis,Raniel-Mano-
+184,Mineirao,20/08/2017,7765,132119,Brasileiro,2,0,Sport-Fabio,Ezequiel,Leo,Murilo,Diogo Barbosa,Henrique,Hudson,Rafinha,Thiago Neves,Alisson,Sassa-Raniel,Elber,Lucas Silva-Mano-Sassa,Raniel
+185,Mineirao,23/08/2017,50243,1730781,Copa do Brasil,1,0,Gremio-Fabio,Ezequiel,Leo,Murilo,Diogo Barbosa,Henrique,Hudson,Robinho,Elber,Alisson,Thiago Neves-Raniel,Sobis,Arrascaeta-Mano-Hudson
+186,Mineirao,27/08/2017,11028,171127,Brasileiro,1,1,Santos-Fabio,Ezequiel,Digao,Murilo,Diogo Barbosa,Hudson,Lucas Silva,Rafinha,Sobis,Thiago Neves,Sassa-Elber,Nonoca,Arrascaeta-Mano-Rafinha
+187,Mineirao,30/08/2017,5708,69343,Primeira Liga,2,0,Gremio-Rafael,Lennon,Digao,Artur,Bryan,Lucas Silva,Nonoca,Arrascaeta,Robinho,Sobis,Raniel-Alisson,Sassa,Murilo-Mano-Raniel,Arrascaeta

@@ -1,34 +1,34 @@
 GERAL:
-    166 jogos 
-    106 vitorias 
-     32 empates 
-     28 derrotas 
-  70.3% aproveitamento 
-    339 gols feitos 
-    155 gols sofridos 
-  22734 pagantes 
+    187 jogos 
+    118 vitorias 
+     39 empates 
+     30 derrotas 
+  70.1% aproveitamento 
+    369 gols feitos 
+    169 gols sofridos 
+  22382 pagantes 
 
 
 Mineirao:
-    147 jogos 
-     95 vitorias 
-     29 empates 
-     23 derrotas 
-  71.2% aproveitamento 
-    302 gols feitos 
-    131 gols sofridos 
-  24570 pagantes 
+    167 jogos 
+    107 vitorias 
+     35 empates 
+     25 derrotas 
+  71.1% aproveitamento 
+    331 gols feitos 
+    144 gols sofridos 
+  24065 pagantes 
 
 
 Independencia:
-     19 jogos 
+     20 jogos 
      11 vitorias 
-      3 empates 
+      4 empates 
       5 derrotas 
-  63.2% aproveitamento 
-     37 gols feitos 
-     24 gols sofridos 
-   8530 pagantes 
+  61.7% aproveitamento 
+     38 gols feitos 
+     25 gols sofridos 
+   8325 pagantes 
 
 
 Estatisticas Por Ano:
@@ -48,4 +48,4 @@ Estatisticas Por Ano:
 2014:   33j  25v   5e   3d     80.8% aprov.    72 gols feitos    24 gols sofridos    24192 pagantes 
 2015:   28j  13v  10e   5d     58.3% aprov.    41 gols feitos    19 gols sofridos    23597 pagantes 
 2016:   33j  17v   9e   7d     60.6% aprov.    55 gols feitos    40 gols sofridos    18703 pagantes 
-2017:    9j   8v   1e   0d     92.6% aprov.    20 gols feitos     4 gols sofridos    11984 pagantes 
+2017:   30j  20v   8e   2d     75.6% aprov.    50 gols feitos    18 gols sofridos    17316 pagantes 

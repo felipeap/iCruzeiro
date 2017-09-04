@@ -1,34 +1,36 @@
 WILLIAN BIGODE            - 27 Gols em  81jogos( 56 titular) - 0.33 p/jogo
-RICARDO GOULART           - 21 Gols em  48jogos( 41 titular) - 0.44 p/jogo
+RICARDO GOULART           - 21 Gols em  47jogos( 40 titular) - 0.45 p/jogo
+ARRASCAETA                - 20 Gols em  67jogos( 57 titular) - 0.3  p/jogo
 DAGOBERTO                 - 17 Gols em  42jogos( 21 titular) - 0.4  p/jogo
+ABILA                     - 17 Gols em  33jogos( 19 titular) - 0.52 p/jogo
 MARCELO MORENO            - 16 Gols em  29jogos( 25 titular) - 0.55 p/jogo
-ARRASCAETA                - 16 Gols em  55jogos( 48 titular) - 0.29 p/jogo
 BORGES                    - 14 Gols em  32jogos( 24 titular) - 0.44 p/jogo
-ABILA                     - 12 Gols em  23jogos( 16 titular) - 0.52 p/jogo
-EVERTON RIBEIRO           - 11 Gols em  52jogos( 52 titular) - 0.21 p/jogo
+SOBIS                     - 12 Gols em  38jogos( 35 titular) - 0.32 p/jogo
+EVERTON RIBEIRO           - 11 Gols em  51jogos( 51 titular) - 0.22 p/jogo
 KLEBER                    - 10 Gols em  10jogos(  9 titular) - 1.0  p/jogo
-BRUNO RODRIGO             - 10 Gols em  74jogos( 73 titular) - 0.14 p/jogo
-SOBIS                     - 10 Gols em  22jogos( 22 titular) - 0.45 p/jogo
+BRUNO RODRIGO             - 10 Gols em  73jogos( 72 titular) - 0.14 p/jogo
 CONTRA                    -  9 Gols em   0jogos(  0 titular) - 0    p/jogo
-ALISSON                   -  9 Gols em  60jogos( 32 titular) - 0.15 p/jogo
+ALISSON                   -  9 Gols em  77jogos( 43 titular) - 0.12 p/jogo
 LEANDRO DAMIAO            -  9 Gols em  18jogos( 13 titular) - 0.5  p/jogo
 WELLINGTON PAULISTA       -  8 Gols em  18jogos( 10 titular) - 0.44 p/jogo
-LEO                       -  8 Gols em  68jogos( 66 titular) - 0.12 p/jogo
-VINICIUS ARAUJO           -  8 Gols em  20jogos( 10 titular) - 0.4  p/jogo
+LEO                       -  8 Gols em  85jogos( 83 titular) - 0.09 p/jogo
+VINICIUS ARAUJO           -  8 Gols em  19jogos(  9 titular) - 0.42 p/jogo
 THIAGO RIBEIRO            -  7 Gols em   8jogos(  8 titular) - 0.88 p/jogo
 JULIO BAPTISTA            -  7 Gols em  29jogos( 15 titular) - 0.24 p/jogo
-NILTON                    -  6 Gols em  41jogos( 32 titular) - 0.15 p/jogo
-ROBINHO                   -  6 Gols em  25jogos( 22 titular) - 0.24 p/jogo
-HENRIQUE                  -  5 Gols em 104jogos( 99 titular) - 0.05 p/jogo
-ELBER                     -  5 Gols em  40jogos( 11 titular) - 0.13 p/jogo
+ROBINHO                   -  7 Gols em  32jogos( 27 titular) - 0.22 p/jogo
+THIAGO NEVES              -  7 Gols em  22jogos( 22 titular) - 0.32 p/jogo
+ELBER                     -  6 Gols em  50jogos( 15 titular) - 0.12 p/jogo
+NILTON                    -  6 Gols em  40jogos( 31 titular) - 0.15 p/jogo
+HENRIQUE                  -  5 Gols em 115jogos(108 titular) - 0.04 p/jogo
+DEDE                      -  5 Gols em  48jogos( 48 titular) - 0.1  p/jogo
 WAGNER                    -  4 Gols em   8jogos(  7 titular) - 0.5  p/jogo
-DEDE                      -  4 Gols em  46jogos( 46 titular) - 0.09 p/jogo
 MARQUINHOS                -  4 Gols em  24jogos( 20 titular) - 0.17 p/jogo
 RAFAEL SILVA              -  4 Gols em   9jogos(  6 titular) - 0.44 p/jogo
 RAMIRES                   -  3 Gols em   8jogos(  7 titular) - 0.38 p/jogo
-LUCAS SILVA               -  3 Gols em  43jogos( 38 titular) - 0.07 p/jogo
-EGIDIO                    -  3 Gols em  51jogos( 48 titular) - 0.06 p/jogo
+LUCAS SILVA               -  3 Gols em  56jogos( 44 titular) - 0.05 p/jogo
+EGIDIO                    -  3 Gols em  50jogos( 47 titular) - 0.06 p/jogo
 DIEGO SOUZA               -  3 Gols em   8jogos(  8 titular) - 0.38 p/jogo
+RANIEL                    -  3 Gols em   9jogos(  3 titular) - 0.33 p/jogo
 ALEX                      -  2 Gols em   1jogos(  1 titular) - 2.0  p/jogo
 JONATHAN                  -  2 Gols em  14jogos( 13 titular) - 0.14 p/jogo
 GABRIEL                   -  2 Gols em   1jogos(  1 titular) - 2.0  p/jogo
@@ -37,8 +39,11 @@ GUILHERME                 -  2 Gols em   6jogos(  3 titular) - 0.33 p/jogo
 MARQUINHOS PARANA         -  2 Gols em  15jogos( 14 titular) - 0.13 p/jogo
 RAFAEL DONATO             -  2 Gols em   4jogos(  4 titular) - 0.5  p/jogo
 MARTINUCCIO               -  2 Gols em   7jogos(  4 titular) - 0.29 p/jogo
-MARCOS VINICIUS           -  2 Gols em  16jogos(  8 titular) - 0.13 p/jogo
-CABRAL                    -  2 Gols em  42jogos( 37 titular) - 0.05 p/jogo
+MARCOS VINICIUS           -  2 Gols em  17jogos(  9 titular) - 0.12 p/jogo
+CABRAL                    -  2 Gols em  53jogos( 48 titular) - 0.04 p/jogo
+RAFINHA                   -  2 Gols em  32jogos( 20 titular) - 0.06 p/jogo
+HUDSON                    -  2 Gols em  19jogos( 15 titular) - 0.11 p/jogo
+SASSA                     -  2 Gols em   7jogos(  3 titular) - 0.29 p/jogo
 GILMAR                    -  1 Gols em   1jogos(  1 titular) - 1.0  p/jogo
 AILTON                    -  1 Gols em   1jogos(  1 titular) - 1.0  p/jogo
 ZE MARIA                  -  1 Gols em   1jogos(  1 titular) - 1.0  p/jogo
@@ -61,14 +66,14 @@ MATEUS                    -  1 Gols em   6jogos(  6 titular) - 0.17 p/jogo
 WALLYSON                  -  1 Gols em   6jogos(  4 titular) - 0.17 p/jogo
 LEANDRO GUERREIRO         -  1 Gols em  21jogos( 19 titular) - 0.05 p/jogo
 WILLIAM MAGRAO            -  1 Gols em   5jogos(  0 titular) - 0.2  p/jogo
-TINGA                     -  1 Gols em  19jogos( 11 titular) - 0.05 p/jogo
+TINGA                     -  1 Gols em  18jogos( 11 titular) - 0.06 p/jogo
 ANSELMO RAMON             -  1 Gols em  10jogos(  5 titular) - 0.1  p/jogo
 CEARA                     -  1 Gols em  51jogos( 47 titular) - 0.02 p/jogo
 LUAN                      -  1 Gols em  11jogos(  7 titular) - 0.09 p/jogo
-MAYKE                     -  1 Gols em  61jogos( 47 titular) - 0.02 p/jogo
-LUCCA                     -  1 Gols em   7jogos(  2 titular) - 0.14 p/jogo
+MAYKE                     -  1 Gols em  66jogos( 52 titular) - 0.02 p/jogo
+LUCCA                     -  1 Gols em   6jogos(  1 titular) - 0.17 p/jogo
 SAMUDIO                   -  1 Gols em   7jogos(  6 titular) - 0.14 p/jogo
-MANOEL                    -  1 Gols em  48jogos( 46 titular) - 0.02 p/jogo
+MANOEL                    -  1 Gols em  52jogos( 50 titular) - 0.02 p/jogo
 JOEL                      -  1 Gols em  13jogos(  5 titular) - 0.08 p/jogo
 WILLIANS                  -  1 Gols em  18jogos( 18 titular) - 0.06 p/jogo
 BRUNO RAMIRES             -  1 Gols em  10jogos(  8 titular) - 0.1  p/jogo
@@ -76,8 +81,8 @@ ALLANO                    -  1 Gols em  13jogos(  8 titular) - 0.08 p/jogo
 MARINHO                   -  1 Gols em   6jogos(  3 titular) - 0.17 p/jogo
 SANCHEZ MINO              -  1 Gols em  11jogos( 10 titular) - 0.09 p/jogo
 DOUGLAS COUTINHO          -  1 Gols em   8jogos(  0 titular) - 0.13 p/jogo
-ROMERO                    -  1 Gols em  21jogos( 18 titular) - 0.05 p/jogo
-RAFINHA                   -  1 Gols em  18jogos(  9 titular) - 0.06 p/jogo
-EZEQUIEL                  -  1 Gols em  11jogos( 11 titular) - 0.09 p/jogo
+ROMERO                    -  1 Gols em  30jogos( 27 titular) - 0.03 p/jogo
+EZEQUIEL                  -  1 Gols em  18jogos( 18 titular) - 0.06 p/jogo
+DIOGO BARBOSA             -  1 Gols em  26jogos( 26 titular) - 0.04 p/jogo
 
-TOTAL DE GOLS: 339
+TOTAL DE GOLS: 369

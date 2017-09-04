@@ -1,4 +1,18 @@
 __author__ = 'Felipe'
+def install_and_import(package):
+    import importlib
+    try:
+        importlib.import_module(package)
+    except ImportError:
+        import pip
+        pip.main(['install', package])
+    finally:
+        globals()[package] = importlib.import_module(package)
+print "INSTALLING PACKAGES"
+install_and_import('bson')
+install_and_import('pymongo')
+install_and_import('jsonutil')
+
 import codecs
 codecs.BOM_UTF8
 from Utils import Utils
@@ -6,7 +20,10 @@ from Jogador import *
 from Adversario import *
 from dbmongo import Database
 from Relatorios import *
+import pip
 
+
+    
 filename = "meusjogos.txt"
 txt = codecs.open(filename, encoding="utf-8-sig")
 todosjogos = txt.readlines()
@@ -16,12 +33,12 @@ def main():
         jogo = Utils().parserJogos(linhajogo)
         ret = jogo.jogoExiste()
         if ret:
-            print str(jogo.ident) + " - New Game  Inserted!"
+            print str(jogo.ident) + " - New Game Inserted"
             cadastraJogadores(jogo)
             Adversario().cadastraAdversarios(jogo)
             jogo.toMongo()
         else:
-            print str(jogo.ident) + " Old Game - Not inserted"
+            print str(jogo.ident) + " Old Game"
 
     Relatorio().criaRelatorioMaisJogos()
     Relatorio().criaRelatorioMaisGols()
